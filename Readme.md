@@ -1,33 +1,26 @@
-<!-- Cyberpunk Mode Activated -->
-
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Welcome+to+CybruGhost's+Domain;Developer+%7C+Hacker+%7C+Visionary;Inspire+or+Expire" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20CybruGhost's%20Domain&fontAlign=40&fontAlignY=40&color=gradient&animation=twinkling&fontColor=00FFC6" />
 </p>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="70">
-  <span style="color:#00FFC6;">CybruGhost</span>
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="70">
-</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Inspire%20or%20Expire-FF0055?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000">
-  <img src="https://img.shields.io/badge/Hack-Fearless-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000">
-  <img src="https://img.shields.io/badge/Build-The%20Future-1E90FF?style=for-the-badge&logo=android&logoColor=white&labelColor=000000">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=4000&pause=1000&color=00FFC6&center=true&vCenter=true&width=500&lines=I+am+Code.;I+am+the+Storm.;I+am+CybruGhost." alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 Who Am I
-- ⚡ Cyber Architect | App Developer | Ethical Hacker
-- 🎯 I don't predict the future — I **create** it.
-- 🛡️ Passionate about Secure Tech, A.I., and Innovation
-- 🧤 Always building. Always learning.
-- 🌌 Dreaming in Code. Waking in Innovation.
+
+- ⚡ Cyber Architect | App Developer | Ethical Hacker  
+- 🎯 I don't predict the future — I **create** it  
+- 🛡️ Passionate about Secure Tech, A.I., and Innovation  
+- 🌌 Dreaming in Code. Waking in Innovation  
+- 🔭 Currently building: MEGAN | The Cube | AniZone
 
 ---
 
 ## ⚙️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,kotlin,java,javascript,html,css,react,androidstudio,firebase,github,git,linux,vscode" />
 </p>
@@ -35,6 +28,7 @@
 ---
 
 ## 🔥 GitHub Power Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CybruGhost&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CybruGhost&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
@@ -43,35 +37,65 @@
 ---
 
 ## 🚀 Hacker Streaks
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CybruGhost&theme=tokyonight&hide_border=true&border_radius=8&fire=DD2727&ring=FF0055&currStreakLabel=00FFAA" />
 </p>
 
 ---
 
-## 🎯 Futuristic Metrics
+## 🎯 Contribution Timeline
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CybruGhost&theme=github_dark" width="90%"/>
 </p>
 
 ---
 
-## ✨ Visitor Counter
+## 🧬 3D Contribution Calendar
+
+[![3D Contributions](./assets/3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
+
+> Powered by `github-profile-3d-contrib` GitHub Action
+
+---
+
+## 🐍 Snake Animation
+
+![Snake animation](https://github.com/CybruGhost/CybruGhost/blob/output/github-contribution-grid-snake.svg)
+
+> Generated with `Platane/snk` GitHub Action
+
+---
+
+## ✈️ Runway Vibes
+
+> **Projects taking off like jets**  
+> **Code deployed like missiles**  
+> **Runways of logic, destinations of innovation**
+
+---
+
+## ⚡ Neon Metrics
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CybruGhost&label=Profile%20views&color=00FF00&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## ⚡ Neon Cyber Art
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=00FFC6&center=true&vCenter=true&width=600&lines=I+am+Code.;I+am+the+Storm.;I+am+CybruGhost." alt="Neon Typing SVG" />
-</p>
+## ✨ Featured Projects
+
+- **MEGAN** – The futuristic Netflix-style movie app  
+- **Jennie** – Smart voice AI assistant with Jarvis vibes  
+- **AniZone** – Anime app with real-time trends and Firebase magic  
+- **The Cube** – Streaming interface that defies the norm  
 
 ---
 
-## 🎯 Cyber Quotes:
-> "**The ones who are crazy enough to think they can change the world, are the ones who do.**" — CybruGhost  
+## 🧠 Wisdom of the Ghost
+
+> "**The ones who are crazy enough to think they can change the world, are the ones who do.**"  
 > "**In a world of chaos, be the silent storm.**"
 
 ---
